@@ -44,6 +44,8 @@ Every venom is applied in a **seed-dependent random order** (AZAZEL Shuffle), pr
 
 ## Quick Start
 
+Download [`AEGIS_GORGON_V16_FINAL.py`](AEGIS_GORGON_V16_FINAL.py) and run:
+
 ```bash
 # Zero dependencies. Just Python 3.
 python3 AEGIS_GORGON_V16_FINAL.py
@@ -60,7 +62,7 @@ Full output in under 5 seconds. No NumPy. No SageMath. No excuses.
 ├── README.md                        # You are here
 ├── GUIDE.md                         # Accessible guide for everyone
 ├── LICENSE.md                       # BSL 1.1 + Gorgon Clause
-├── CITATION.cff                     # How to cite this work
+├── CITATION.md                      # How to cite this work
 ├── STRATEGIES.md                    # Defense architecture (partial — by design)
 ├── HISTORY.md                       # Complete evolution from Leviathan to Gorgon
 ├── QUANTUM_VERDICT.md               # Post-quantum security analysis (4 AI auditors)
@@ -108,7 +110,7 @@ See [LICENSE.md](LICENSE.md) for complete terms.
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff) for machine-readable citation data.
+See [CITATION.md](CITATION.md) for citation data and BibTeX.
 
 ---
 
