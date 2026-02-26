@@ -2,7 +2,7 @@
 
 **Rafael Amichis Luengo** (The Architect)
 Proyecto Estrella · Error Code Lab
-tretoef@gmail.com · github.com/tretoef-estrella
+tretoef@gmail.com · [github.com/tretoef-estrella](https://github.com/tretoef-estrella) · [Source Code](AEGIS_GORGON_V16_FINAL.py)
 
 **Engine:** Claude (Anthropic)
 **Auditors:** Gemini (Google) · ChatGPT (OpenAI) · Grok (xAI)
