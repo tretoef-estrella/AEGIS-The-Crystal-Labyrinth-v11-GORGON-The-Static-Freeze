@@ -28,7 +28,7 @@ The system uses 7 layers of mathematical defense, each named after a biological 
 
 ## How Do I Run It?
 
-You need Python 3 installed on your computer. Nothing else.
+You need Python 3 installed on your computer. Nothing else. Download [`AEGIS_GORGON_V16_FINAL.py`](AEGIS_GORGON_V16_FINAL.py) and run:
 
 ```bash
 python3 AEGIS_GORGON_V16_FINAL.py
